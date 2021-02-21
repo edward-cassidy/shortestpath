@@ -14,3 +14,7 @@ The second line for example:
 A->D,15 
 
 Represents the source and destintaion node for the program to calculate the shortest path of. It also provides a maximum total weight cost allowed of 15. Anything over and an error is submitted. So for the graph above its total weight would be 10 for the shortest path.
+
+The output would then be:
+
+A->B->C->D
