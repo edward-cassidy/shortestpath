@@ -1,7 +1,7 @@
 # shortestpath
 Program takes a list of nodes and edge weights and determines the shortest path given by a source and destination node under a given edge cost limit
 
-Input is takes the form of two lines.
+Input takes the form of two lines.
 
 The first line for example:
 
